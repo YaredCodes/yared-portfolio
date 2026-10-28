@@ -25,8 +25,8 @@ const projects = [
     technologies: ["JavaScript", "PHP", "MySQL"],
     status: "Completed",
     featured: false,
-    image: "",
-    liveUrl: "",
+     image: "images/projects/multivendor.png",
+    liveUrl: "https://yaredsecommerce.42web.io/", 
   },
 ];
 
